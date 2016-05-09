@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<presentation title="新建 Microsoft PowerPoint 演示文稿" width="720.0000000" height="405.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{545A319C-8698-4CBC-AAEC-202E4BB8DE73}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="12330" advanceOnTime="0" framesCount="51" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="50" playTime="2.0833333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>技术分享——HTTP 协议
+IOT Chinamobile M.Lee</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="191449" advanceOnTime="0" framesCount="124" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="CoverLeft" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="48" playTime="2.0000000"/>
+				<step start="49" end="73" playTime="1.0000000"/>
+				<step start="74" end="98" playTime="1.0000000"/>
+				<step start="99" end="123" playTime="1.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>几个网站
+http://www.ietf.org/rfc
+http://man.chinaunix.net/develop/rfc/default.htm
+https://zh.wikipedia.org/zh-cn/超文本传输协议</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="187794" advanceOnTime="0" framesCount="88" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="48" playTime="2.0000000"/>
+				<step start="49" end="61" playTime="0.5000000"/>
+				<step start="62" end="74" playTime="0.5000000"/>
+				<step start="75" end="87" playTime="0.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>先说说RFC
+RFC （一系列以编号排定的文件）
+4个阶段【RFC2026】：因特网草案、建议标准、草案标准、因特网标准。
+更多标准制定过程详细信息：
+RFC 2223 "Instructions to RFC Authors"。
+RFC 2026 "The Internet Standards Process -- Revision 3"。</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="19044" advanceOnTime="0" framesCount="125" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="BlindsVertical" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="72" playTime="3.0000000"/>
+				<step start="73" end="85" playTime="0.5000000"/>
+				<step start="86" end="98" playTime="0.5000000"/>
+				<step start="99" end="111" playTime="0.5000000"/>
+				<step start="112" end="124" playTime="0.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HTTP之URL
+http://host[":"port][abs_path]
+host 表示合法的 Internet 主机域名或者 IP 地址
+port 指定一个端口号，为空则使用缺省端口 80
+abs_path 指定请求资源的 URI</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="18803" advanceOnTime="0" framesCount="125" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="BlindsVertical" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="72" playTime="3.0000000"/>
+				<step start="73" end="85" playTime="0.5000000"/>
+				<step start="86" end="98" playTime="0.5000000"/>
+				<step start="99" end="111" playTime="0.5000000"/>
+				<step start="112" end="124" playTime="0.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HTTP之请求
+请求行、消息报头、请求正文
+请求行：Method Request-URI HTTP-Version CRLF
+消息报头：可以简单理解为HEADER里面的东西
+abs_path 指定请求资源的 URI</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="18816" advanceOnTime="0" framesCount="112" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="BlindsVertical" duration="1.6000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="72" playTime="3.0000000"/>
+				<step start="73" end="85" playTime="0.5000000"/>
+				<step start="86" end="98" playTime="0.5000000"/>
+				<step start="99" end="111" playTime="0.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HTTP之响应
+响应报头、实体报头
+响应报头：Location和Server
+实体报头：Content-Encoding、Content-Language、Content-Length、Content-Type、Last-Modified、Expires</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="41603" advanceOnTime="0" framesCount="138" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="PushUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="72" playTime="3.0000000"/>
+				<step start="73" end="85" playTime="0.5000000"/>
+				<step start="86" end="98" playTime="0.5000000"/>
+				<step start="99" end="111" playTime="0.5000000"/>
+				<step start="112" end="124" playTime="0.5000000"/>
+				<step start="125" end="137" playTime="0.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>打开telnet
+（cmd -&gt; telnet）
+打开telnet的回显
+（set localecho）
+发送连接请求
+（open whatismyip.org）
+输入请求
+（GET / HTTP/1.1&amp;Host）
+Telnet实践
+看输出结果</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="20261" advanceOnTime="0" framesCount="51" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="50" playTime="2.0833333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>详细了解HTTP
+看RFC2616
+开发后台
+程序必须
+掌握 http
+报头域不
+分大小写</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="44996" advanceOnTime="0" framesCount="103" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="PushUp" duration="1.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="24" playTime="1.0000000"/>
+				<step start="25" end="37" playTime="0.5000000"/>
+				<step start="38" end="50" playTime="0.5000000"/>
+				<step start="51" end="63" playTime="0.5000000"/>
+				<step start="64" end="76" playTime="0.5000000"/>
+				<step start="77" end="89" playTime="0.5000000"/>
+				<step start="90" end="102" playTime="0.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>DDos
+慢查询
+注入
+XSS
+CSRF
+不是HTTP协议相关的方法
+慢查询攻击
+使 用 POST 方 法 时， 设 置
+ ContentLenth:
+999999999。
+拒绝服务攻击
+正常连接攻击
+SYN 洪水攻击
+ Smurf等ICMP 报文攻击和IP 碎片攻击
+HTTP相关安全</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="3204" advanceOnTime="0" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>实践：用golang实现linux中的curl
+（实现部分常用参数）</text>
+		</slide>
+	</slides>
+</presentation>
